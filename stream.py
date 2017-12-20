@@ -4,10 +4,10 @@ from tweepy import *;
 
 from tweepy.streaming import StreamListener;
 
-strCKey = "Ss0hd3ObqaVYo57akdHGR2fCx";
-strCSecret = "AjfpjioH1UMTLdLGVPwF1zdeQNogB54zauyRFZjD0rKS00hFJE";
-strAToken = "1548061171-Mx7Cspk1Ra0bv7YsYXLW1X4c2hy0iILStiPxaNW";
-strASecret = "cbgsQmHK3vnk683S0ZZeEi3kpqlH99LBEChJYrSFwe5rC";
+strCKey = "";
+strCSecret = "";
+strAToken = "";
+strASecret = "";
 
 class clsStreamListener( tweepy.StreamListener ) :
 
